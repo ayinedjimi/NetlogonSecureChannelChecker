@@ -184,6 +184,18 @@ Format des logs :
 - **Impact** : Chiffrement des communications pour confidentialité
 
 
+# 🚀 Tester le secure channel
+
+# 🚀 Réparer le secure channel
+
+# 🚀 Vérifier après réparation
+
+# 🚀 Tester
+
+# 🚀 Réparer
+
+# 🚀 Réparer en forçant le changement de mot de passe
+
 ## Codes d'erreur et leur signification
 
 ### NERR_Success (0)
@@ -215,18 +227,6 @@ Format des logs :
 2. Si échec, réjoindre le domaine
 3. Vérifier que le compte machine existe dans AD
 
-
-# 🚀 Tester le secure channel
-
-# 🚀 Réparer le secure channel
-
-# 🚀 Vérifier après réparation
-
-# 🚀 Tester
-
-# 🚀 Réparer
-
-# 🚀 Réparer en forçant le changement de mot de passe
 
 ## Réparation du Secure Channel
 
@@ -413,6 +413,14 @@ Pour toute question ou assistance technique.
 **Date** : 2025-10-20
 **Licence** : Usage interne Ayi NEDJIMI Consultants
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 ---
 
