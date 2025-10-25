@@ -156,6 +156,18 @@ Format des logs :
 ```
 
 
+# 🚀 Tester le secure channel
+
+# 🚀 Réparer le secure channel
+
+# 🚀 Vérifier après réparation
+
+# 🚀 Tester
+
+# 🚀 Réparer
+
+# 🚀 Réparer en forçant le changement de mot de passe
+
 ## 🔒 Paramètres de sécurité Netlogon
 
 ### RequireSignOrSeal
@@ -183,18 +195,6 @@ Format des logs :
 - **Recommandation** : 1 (activé)
 - **Impact** : Chiffrement des communications pour confidentialité
 
-
-# 🚀 Tester le secure channel
-
-# 🚀 Réparer le secure channel
-
-# 🚀 Vérifier après réparation
-
-# 🚀 Tester
-
-# 🚀 Réparer
-
-# 🚀 Réparer en forçant le changement de mot de passe
 
 ## Codes d'erreur et leur signification
 
@@ -413,6 +413,14 @@ Pour toute question ou assistance technique.
 **Date** : 2025-10-20
 **Licence** : Usage interne Ayi NEDJIMI Consultants
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
