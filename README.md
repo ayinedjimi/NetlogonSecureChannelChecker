@@ -125,6 +125,18 @@ cl.exe /EHsc /O2 /W3 /std:c++17 /D UNICODE /D _UNICODE NetlogonSecureChannelChec
 ```
 
 
+# 🚀 Tester le secure channel
+
+# 🚀 Réparer le secure channel
+
+# 🚀 Vérifier après réparation
+
+# 🚀 Tester
+
+# 🚀 Réparer
+
+# 🚀 Réparer en forçant le changement de mot de passe
+
 ## 🚀 Utilisation
 
 ### Interface graphique
@@ -137,18 +149,6 @@ cl.exe /EHsc /O2 /W3 /std:c++17 /D UNICODE /D _UNICODE NetlogonSecureChannelChec
 - **Administrateur** : Obligatoire pour appeler I_NetLogonControl2 et lire le registre Netlogon
 - Lancer l'outil en tant qu'administrateur
 
-
-# 🚀 Tester le secure channel
-
-# 🚀 Réparer le secure channel
-
-# 🚀 Vérifier après réparation
-
-# 🚀 Tester
-
-# 🚀 Réparer
-
-# 🚀 Réparer en forçant le changement de mot de passe
 
 ## Logging
 
@@ -413,6 +413,14 @@ Pour toute question ou assistance technique.
 **Date** : 2025-10-20
 **Licence** : Usage interne Ayi NEDJIMI Consultants
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
